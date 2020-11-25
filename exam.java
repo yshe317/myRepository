@@ -29,6 +29,6 @@ public class Tool{
         s. print_increasing_order(ls);         
     }
     public static void main(String[] s) {
-        System.out.print("ss\n");
+        .out.print("ss\n");
     }
 }
