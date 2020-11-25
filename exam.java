@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 interface Sort{         
-    public void print_increasing_order(List<Covid19> ls);
+    void print_increasing_order(List<Covid19> ls);
 }
 public class Tool{        
     public static void print_tool(List<Covid19> ls) {
